@@ -28,7 +28,7 @@
   "license": "ISC",
   "description": "This package is an experimental and educational package created for Cloudflare protections.",
   "dependencies": {
-    "ajv": "^8.17.1",
+    "ajv": "^8.20.0",
     "ajv-formats": "^3.0.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
